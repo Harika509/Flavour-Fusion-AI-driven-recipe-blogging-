@@ -4,7 +4,7 @@ Category: Cloud Application Development
 
 # Deploy App Link :
 
-https://flavour-fusion-ai-driven-recipe-blogging-mghoyjxwqmzx9h4up8ecq.streamlit.app/
+https://mwcpqsxyfhctrny5uxdyak.streamlit.app/
 
 # Video Demo Link:
 
