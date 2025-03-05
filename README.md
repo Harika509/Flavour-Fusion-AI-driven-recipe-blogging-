@@ -8,11 +8,11 @@ https://flavour-fusion-ai-driven-recipe-blogging-mghoyjxwqmzx9h4up8ecq.streamlit
 
 # Video Demo Link:
 
-https://drive.google.com/file/d/1QtgSQrNavAwj-4ZDhr2SB7lXeFZBZfQY/view?usp=sharing
+https://drive.google.com/file/d/1xsM2BTDcHDH31YbttfPiX1WbEEiKQBYc/view?usp=sharing
 
 # Document File Link :
 
-https://drive.google.com/file/d/1TzFvsYNbtP_AEiKut7BNYP2HoG9uBoRC/view?usp=sharing
+https://drive.google.com/file/d/1sdHQNH2UAFNN6aGZHQkIgzLigVhU1pkd/view?usp=sharing
 
 Skills Required: Machine Learning
 
