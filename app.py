@@ -3,7 +3,7 @@ import google.generativeai as genai
 import random
 
 
-api_key = "AIzaSyAcno6XohqjN-yYJInuEkqRhgr8JZTBaGs"
+api_key = "AIzaSyDBYwZEv1VAJ-F3FlozeRMZNBwIGHs8HNA"
 genai.configure(api_key=api_key)
 
 
